@@ -1,4 +1,4 @@
-# 🌟 Jaya Prakash Narayana Raavi - Portfolio
+# 🌟 Jaya Prakash Narayana Raavi
 
 Welcome to my portfolio! This repository showcases my work in **Data Engineering, Business Intelligence, Web Development, and Cloud Technologies**. My projects focus on building scalable data solutions, automating workflows, and creating insightful visualizations.
 
