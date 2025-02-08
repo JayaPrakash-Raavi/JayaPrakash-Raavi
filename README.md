@@ -1,6 +1,6 @@
 # 🌟 Jaya Prakash Narayana Raavi
 
-Welcome to my portfolio! This repository showcases my work in **Data Engineering, Business Intelligence, Web Development, and Cloud Technologies**. My projects focus on building scalable data solutions, automating workflows, and creating insightful visualizations.
+Welcome! I am a **Data Engineer, Business Intelligence Developer, and Web Developer** with expertise in **Data Engineering, Analytics, Web Development, and Cloud Technologies**. My work focuses on **building scalable data solutions, automating workflows, and creating insightful visualizations** to drive decision-making.
 
 ---
 
