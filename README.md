@@ -1,9 +1,4 @@
----
-title: "Jaya Prakash Narayana Raavi - Portfolio"
-author: "Jaya Prakash Narayana Raavi"
-date: "`r Sys.Date()`"
-output: html_document
----
+
 
 # 🌟 Jaya Prakash Narayana Raavi
 
