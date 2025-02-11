@@ -34,7 +34,6 @@ An interactive dashboard that visualizes **population, employment, and land usag
 - Dynamic **filtering & visualizations** for different MPOs & land categories.
 - Automated **data cleaning & wrangling** for accurate insights.
 
-🔗 [Project Repository](#) | 🖥 [Live Demo](#)
 
 ---
 
@@ -49,7 +48,7 @@ Designed a **MySQL database** to streamline **client follow-ups** and **referral
 - Created **real-time Power BI dashboards** for analytics.
 - Optimized SQL queries for **faster data retrieval**.
 
-🔗 [Project Repository](#)
+🔗 [https://github.com/JayaPrakash-Raavi/Refferral_database](#)
 
 ---
 
