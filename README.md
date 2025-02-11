@@ -34,7 +34,6 @@ An interactive dashboard that visualizes **population, employment, and land usag
 - Dynamic **filtering & visualizations** for different MPOs & land categories.
 - Automated **data cleaning & wrangling** for accurate insights.
 
-
 ---
 
 ### 📌 Database Design for Referral Management
@@ -48,7 +47,7 @@ Designed a **MySQL database** to streamline **client follow-ups** and **referral
 - Created **real-time Power BI dashboards** for analytics.
 - Optimized SQL queries for **faster data retrieval**.
 
-🔗 [https://github.com/JayaPrakash-Raavi/Refferral_database](#)
+🔗 [Refferral_database](#)
 
 ---
 
@@ -63,7 +62,7 @@ Analyzed **public transport trends** using survey and demographic data.
 - Optimized **data models for real-time analysis**.
 - Explored **transport preferences by demographics & location**.
 
-🔗 [https://github.com/JayaPrakash-Raavi/Refferral_database](#)
+🔗 [Project Repository](#)
 
 ---
 
