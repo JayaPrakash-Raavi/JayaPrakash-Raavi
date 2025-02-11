@@ -47,7 +47,7 @@ Designed a **MySQL database** to streamline **client follow-ups** and **referral
 - Created **real-time Power BI dashboards** for analytics.
 - Optimized SQL queries for **faster data retrieval**.
 
-🔗 [Refferral_database](#)
+🔗 [Project Repository](https://github.com/JayaPrakash-Raavi/Refferral_database)
 
 ---
 
@@ -62,7 +62,7 @@ Analyzed **public transport trends** using survey and demographic data.
 - Optimized **data models for real-time analysis**.
 - Explored **transport preferences by demographics & location**.
 
-🔗 [Project Repository](#)
+🔗 [Project Repository](https://github.com/JayaPrakash-Raavi/Public-Transport-Preference-Tennessee)
 
 ---
 
@@ -77,7 +77,7 @@ A **library system** for students and librarians to **manage book lending & avai
 - Real-time book **inventory tracking**.
 - **RESTful APIs** for managing book requests.
 
-🔗 [Project Repository](#)
+🔗 [Project Repository](https://github.com/JayaPrakash-Raavi/library)
 
 ---
 
