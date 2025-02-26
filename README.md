@@ -1,17 +1,17 @@
 
 
-# 🌟 Jaya Prakash Narayana Raavi
+#  Jaya Prakash Narayana Raavi
 
 Welcome! I am a **Data Engineer, Business Intelligence Developer, and Web Developer** with expertise in **Data Engineering, Analytics, Web Development, and Cloud Technologies**. My work focuses on **building scalable data solutions, automating workflows, and creating insightful visualizations** to drive decision-making.
 
 ---
 
-## 📌 About Me
+##  About Me
 I am a **Software Engineer (Data Analyst)** with experience in **data engineering, analytics, and full-stack web development**. My expertise includes **Python, SQL, AWS, React.js, Power BI, and Machine Learning**. I am passionate about solving real-world problems using data-driven insights and scalable technologies.
 
 ---
 
-## 🚀 Technical Skills
+##  Technical Skills
 - **Programming**: Python3, R, JavaScript, Power Query  
 - **Databases & Cloud**: MySQL, MongoDB, AWS (S3, Lambda, RDS), SQL Server  
 - **Web Development**: React.js, D3.js, Node.js, Express.js, HTML5, CSS3  
@@ -21,9 +21,9 @@ I am a **Software Engineer (Data Analyst)** with experience in **data engineerin
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 📊 Tennessee Statewide Land Use Dashboard
+###  Tennessee Statewide Land Use Dashboard
 **Tech Stack**: R, Shiny, ggplot2, Plotly, Leaflet, Flexdashboard  
 
 **Description**:  
@@ -36,7 +36,7 @@ An interactive dashboard that visualizes **population, employment, and land usag
 
 ---
 
-### 📌 Database Design for Referral Management
+###  Database Design for Referral Management
 **Tech Stack**: MySQL, Python, Power BI  
 
 **Description**:  
@@ -51,7 +51,7 @@ Designed a **MySQL database** to streamline **client follow-ups** and **referral
 
 ---
 
-### 🚍 Public Transport Preferences in Tennessee (Power BI)
+###  Public Transport Preferences in Tennessee (Power BI)
 **Tech Stack**: Power BI, DAX, SQL  
 
 **Description**:  
@@ -66,7 +66,7 @@ Analyzed **public transport trends** using survey and demographic data.
 
 ---
 
-### 🌐 Library Management System (Full-Stack Web App)
+###  Library Management System (Full-Stack Web App)
 **Tech Stack**: Next.js, MongoDB, Node.js, Express.js  
 
 **Description**:  
@@ -81,15 +81,15 @@ A **library system** for students and librarians to **manage book lending & avai
 
 ---
 
-## 🎓 Education
-📍 **Master of Science** - *University of Memphis, Tennessee, USA* (Jan 2023 - Dec 2024)  
+##  Education
+ **Master of Science** - *University of Memphis, Tennessee, USA* (Jan 2023 - Dec 2024)  
 - **Major**: Data Science  
 - **Minor**: Bio-statistical Learning  
 - **CGPA**: 3.88/4.0  
 
 ---
 
-## 🏆 Certifications & Research
+##  Certifications & Research
 - **Practical GitHub Copilot**  
 - **CSS Essential Training**  
 - **IBM - What is Data Science?**  
@@ -100,12 +100,12 @@ A **library system** for students and librarians to **manage book lending & avai
 
 ---
 
-## 📫 Contact Information
-- 📍 **Location**: Memphis, TN, USA  
-- 📧 **Email**: [jpn9121@gmail.com](mailto:jpn9121@gmail.com)  
-- 🔗 **LinkedIn**: [Jaya Prakash Narayana Raavi](https://www.linkedin.com/in/jayaprakashraavi)  
-- 💻 **GitHub**: [JayaPrakash-Raavi](https://github.com/JayaPrakash-Raavi)  
+##  Contact Information
+-  **Location**: Memphis, TN, USA  
+-  **Email**: [jpn9121@gmail.com](mailto:jpn9121@gmail.com)  
+-  **LinkedIn**: [Jaya Prakash Narayana Raavi](https://www.linkedin.com/in/jayaprakashraavi)  
+-  **GitHub**: [JayaPrakash-Raavi](https://github.com/JayaPrakash-Raavi)  
 
 ---
 
-⭐ **Let's connect! If you find my work interesting, feel free to reach out.** 🚀
+ **Let's connect! If you find my work interesting, feel free to reach out.** 
