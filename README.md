@@ -1,111 +1,129 @@
+# 🚀 Jaya Prakash Narayana Raavi  
 
+🔹 **Data Engineer | Business Intelligence Developer | Data Analyst**  
+🔹 **Big Data | ETL | Power BI | Cloud Technologies**  
+🔹 Passionate about **building scalable data solutions, automating workflows, and transforming data into actionable insights**.  
 
-#  Jaya Prakash Narayana Raavi
-
-Welcome! I am a **Data Engineer, Business Intelligence Developer, and Web Developer** with expertise in **Data Engineering, Analytics, Web Development, and Cloud Technologies**. My work focuses on **building scalable data solutions, automating workflows, and creating insightful visualizations** to drive decision-making.
-
----
-
-##  About Me
-I am a **Software Engineer (Data Analyst)** with experience in **data engineering, analytics, and full-stack web development**. My expertise includes **Python, SQL, AWS, React.js, Power BI, and Machine Learning**. I am passionate about solving real-world problems using data-driven insights and scalable technologies.
-
----
-
-##  Technical Skills
-- **Programming**: Python3, R, JavaScript, Power Query  
-- **Databases & Cloud**: MySQL, MongoDB, AWS (S3, Lambda, RDS), SQL Server  
-- **Web Development**: React.js, D3.js, Node.js, Express.js, HTML5, CSS3  
-- **Data & Analytics**: Power BI, Tableau, GIS, Advanced Statistics, Machine Learning  
-- **Tools & Frameworks**: Git, Jira, Confluence, Selenium, Playwright, VISSIM  
-- **Soft Skills**: Teamwork, Leadership, Problem-Solving, Communication  
+📍 Memphis, TN, USA | 📧 [jpn9121@gmail.com](mailto:jpn9121@gmail.com)  
+🔗 **LinkedIn**: [Jaya Prakash Narayana Raavi](https://www.linkedin.com/in/jaya-prakash-narayana-raavi-b6263220a)  
+🚀 **GitHub**: [JayaPrakash-Raavi](https://github.com/JayaPrakash-Raavi)  
 
 ---
 
-##  Featured Projects
+## 🛠️ **Technical Skills**  
 
-###  Tennessee Statewide Land Use Dashboard
-**Tech Stack**: R, Shiny, ggplot2, Plotly, Leaflet, Flexdashboard  
+### **📌 Programming & Scripting**  
+✔️ Python3 | SQL | R | JavaScript | Power Query | Shell Scripting  
 
-**Description**:  
-An interactive dashboard that visualizes **population, employment, and land usage trends** across Tennessee.
+### **📌 Databases & Cloud Technologies**  
+✔️ MySQL | MongoDB | Apache Kafka | Spark | Hadoop | RDS | BigQuery  
 
-**Key Features**:
-- Integrated **GIS-based mapping** with shapefiles and demographic data.
-- Dynamic **filtering & visualizations** for different MPOs & land categories.
-- Automated **data cleaning & wrangling** for accurate insights.
+### **📌 Business Intelligence & Analytics**  
+✔️ Microsoft Excel (Advanced) | Power BI | Tableau | Alteryx | Looker | Data Studio | DAX | ETL  
 
----
+### **📌 Machine Learning & AI**  
+✔️ Pandas | Scikit-Learn | TensorFlow | PyTorch | Deep Learning | Convolutional Neural Networks (CNN)  
 
-###  Database Design for Referral Management
-**Tech Stack**: MySQL, Python, Power BI  
+### **📌 DevOps & Data Engineering Tools**  
+✔️ GitHub | Docker | Kubernetes | Terraform | Jenkins | Linux  
 
-**Description**:  
-Designed a **MySQL database** to streamline **client follow-ups** and **referral tracking**.
-
-**Key Features**:
-- Automated **data collection & processing** using Python.
-- Created **real-time Power BI dashboards** for analytics.
-- Optimized SQL queries for **faster data retrieval**.
-
-🔗 [Project Repository](https://github.com/JayaPrakash-Raavi/Refferral_database)
+### **📌 Soft Skills**  
+✔️ Agile & Scrum | Project Management | Collaboration | Problem-Solving  
 
 ---
 
-###  Public Transport Preferences in Tennessee (Power BI)
-**Tech Stack**: Power BI, DAX, SQL  
+## 💼 **Work Experience**  
 
-**Description**:  
-Analyzed **public transport trends** using survey and demographic data.
+### **Software Engineer (Data Analyst)**  
+📍 **Herff College of Engineering, University of Memphis** | 🗓 **Nov 2023 – Sept 2024**  
 
-**Key Features**:
-- Built **interactive Power BI visualizations** with DAX measures.
-- Optimized **data models for real-time analysis**.
-- Explored **transport preferences by demographics & location**.
-
-🔗 [Project Repository](https://github.com/JayaPrakash-Raavi/Public-Transport-Preference-Tennessee)
-
----
-
-###  Library Management System (Full-Stack Web App)
-**Tech Stack**: Next.js, MongoDB, Node.js, Express.js  
-
-**Description**:  
-A **library system** for students and librarians to **manage book lending & availability**.
-
-**Key Features**:
-- Role-based authentication (**students & librarians**).
-- Real-time book **inventory tracking**.
-- **RESTful APIs** for managing book requests.
-
-🔗 [Project Repository](https://github.com/JayaPrakash-Raavi/library)
+✔️ Cleaned & processed **2M+ records**, improving data accuracy by **95%**  
+✔️ Built **interactive R dashboards** visualizing population, household, employment, & land usage  
+✔️ Developed **10+ Power BI & Tableau dashboards** for research insights  
+✔️ Automated **70% of data processing workflows** using Python & MATLAB  
+✔️ Used **VISSIM scripting** for traffic data modeling across **30+ miles**  
+✔️ Collaborated with research teams to generate **data-driven reports**  
 
 ---
 
-##  Education
- **Master of Science** - *University of Memphis, Tennessee, USA* (Jan 2023 - Dec 2024)  
-- **Major**: Data Science  
-- **Minor**: Bio-statistical Learning  
-- **CGPA**: 3.88/4.0  
+### **Business Intelligence Developer**  
+📍 **InnovaPath, INC.** | 🗓 **Jul 2021 – Nov 2022**  
+
+✔️ Designed & maintained **web-based dashboards** using **React.js**  
+✔️ Developed **interactive visualizations** with **D3.js & Power BI**  
+✔️ Built **RESTful APIs** using **Node.js & Express.js**, integrated with MongoDB  
+✔️ Used **Git & Agile development** for software version control & sprint planning  
+✔️ Collaborated with data analysts & engineers to enhance **BI solutions**  
 
 ---
 
-##  Certifications & Research
-- **Practical GitHub Copilot**  
-- **CSS Essential Training**  
-- **IBM - What is Data Science?**  
-- **Practical GitHub Project Management and Collaboration**  
-- **Practical GitHub Actions**  
-- **IEEE Conference**: *Paper on Whale Optimization Algorithm for Power Loss Minimization*  
-- **TRB Conference**: *Research on Optimization of Wiedemann 99 Car-Following Parameters*  
+## 📊 **Featured Projects**  
+
+### 🔹 **Database Design for Referral Management**  
+📌 **Tech Stack**: MySQL, Python, Power BI  
+📆 **Mar 2024 - Jul 2024**  
+
+✔️ Created a **MySQL database** for tracking client referrals & follow-ups  
+✔️ Automated **data collection & processing** with Python  
+✔️ Designed **real-time Power BI dashboards** for business insights  
+✔️ Optimized database queries to **enhance performance & speed**  
+
+🔗 **[Project Repository](https://github.com/JayaPrakash-Raavi/Refferral_database)**  
 
 ---
 
-##  Contact Information
--  **Location**: Memphis, TN, USA  
--  **Email**: [jpn9121@gmail.com](mailto:jpn9121@gmail.com)  
--  **LinkedIn**: [Jaya Prakash Narayana Raavi](https://www.linkedin.com/in/jayaprakashraavi)  
--  **GitHub**: [JayaPrakash-Raavi](https://github.com/JayaPrakash-Raavi)  
+### 🔹 **Tennessee Statewide Land Use Dashboard**  
+📌 **Tech Stack**: R, Shiny, ggplot2, Plotly, Leaflet, Flexdashboard  
+📆 **Feb 2024 - Apr 2024**  
+
+✔️ Built an **R-based dashboard** analyzing **Tennessee’s population & land use**  
+✔️ Merged **geographic shapefiles** with datasets for consistency  
+✔️ Created **interactive visualizations** for land, home, employment, & population data  
 
 ---
 
- **Let's connect! If you find my work interesting, feel free to reach out.** 
+### 🔹 **Visualizing Public Transport Preferences in Tennessee**  
+📌 **Tech Stack**: Power BI, DAX, SQL  
+📆 **Nov 2023 - Dec 2023**  
+
+✔️ Integrated **survey data, demographics, & transport usage stats**  
+✔️ Developed **custom visualizations & DAX measures** in Power BI  
+✔️ Built an **interactive report** analyzing **public transport trends**  
+
+---
+
+## 🎓 **Education**  
+
+📌 **Master of Science (Data Science, Minor in Bio-Statistical Learning)**  
+🎓 **University of Memphis, Tennessee, USA** | **CGPA: 3.88 / 4.0**  
+📆 **Jan 2023 - Dec 2024**  
+
+---
+
+## 🏆 **Certifications & Research**  
+
+📌 **Published Research**  
+- **Transportation Research Board (TRB)**: *Hybrid Optimization of Wiedemann 99 Car-Following Parameters for Accurate Calibration of Microsimulation Models for Tennessee's Freeway Traffic*  
+- **IEEE Conference**: *Whale Optimization Algorithm-Based Power Loss Minimization in Distribution Networks*  
+
+📌 **Certifications**  
+✔️ IBM - *What is Data Science?*  
+✔️ Practical GitHub Copilot  
+✔️ Practical GitHub Actions  
+✔️ CSS Essential Training  
+
+---
+
+## 📞 **Contact Information**  
+
+📍 **Location**: Memphis, TN, USA  
+📧 **Email**: [jpn9121@gmail.com](mailto:jpn9121@gmail.com)  
+🔗 **LinkedIn**: [Jaya Prakash Narayana Raavi](https://www.linkedin.com/in/jaya-prakash-narayana-raavi-b6263220a)  
+🚀 **GitHub**: [JayaPrakash-Raavi](https://github.com/JayaPrakash-Raavi)  
+
+---
+
+## 🎯 **Let's Connect!**  
+💡 If you find my work interesting, feel free to **reach out for collaborations, projects, or discussions**! 🚀  
+
+🔥 **Made with ❤️ by Jaya Prakash Narayana Raavi**  
